@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 81223601,
+      "name": "android-ListaDeTarefas",
+      "owner": {
+        "login": "AlanAndCode",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "stargazers_count": 3,
+      "language": "Java",
+      "html_url": "https://github.com/AlanAndCode/ListadeTarefas",
+      "description": "App que em que se pode criar uma lista de tarefas afazer, apagar, editar."
+    },
+    {
+      "id": 178429138,
+      "name": "android-SoccerNews",
+      "owner": {
+        "login": "AlanAndCode",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/AlanAndCode/SoccerNews",
+      "description": "Aoo que conta com uma API para mostrar algumas noticias de futebol feminino, assim que voce curte a noticia ela é exibida tambem no menu de favoritos",
+      "stargazers_count": 4,
+      "language": "kotlin"
+    },
+    {
+      "id": 183915325,
+      "name": "android-Meu diario",
+      "owner": {
+        "login": "AlanAndCode",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/AlanAndCode/SharedPreferences",
+      "description": "App que testa shared preferences, com um diario",
+      "stargazers_count": 1,
+      "language": "Java"
+    },
+    {
+      "id": 378749135,
+      "name": "app-Beba Agua",
+      "owner": {
+        "login": "AlanAndCode",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/AlanAndCode/Beba-Agua",
+      "description": "App que calcula quantidade de agua a ser bebida no dia e permite que se crie alarmes para a hora de tomar agua",
+      "stargazers_count": 2,
+      "language": "Kotlin"
+    },
+    {
+      "id": 63367755,
+      "name": "Simulador de Partidas",
+      "owner": {
+        "login": "AlanAndCode",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/AlanAndCode/Simulator-Match",
+      "description": "Simulador de partidas de futebol",
+      "stargazers_count": 4,
+      "language": "java e kotlin"
+    },
+    {
+      "id": 63448974,
+      "name": "A  lcool ou gasolina",
+      "owner": {
+        "login": "AlanAndCode",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/AlanAndCode/Alcool-ou-gasolina-Aplicativo-em-Kotlin",
+      "description": "Calcula de acordo com o valor qual o melhor alcool ou gasolina",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    },
+    {
+      "id": 369822554,
+      "name": "Pedra, Papel ou Tesoura",
+      "owner": {
+        "login": "AlanAndCode",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/AlanAndCode/Pedra.Papel.TesouraAPP",
+      "description": "Jogo simples pedra, papel ou tesoura",
+      "stargazers_count": 1,
+      "language": "java"
+    }
+  ]
+}
